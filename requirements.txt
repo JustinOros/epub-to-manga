@@ -1,0 +1,10 @@
+
+ebooklib
+beautifulsoup4
+requests
+torch
+diffusers
+transformers
+accelerate
+pillow
+tqdm
