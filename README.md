@@ -6,6 +6,8 @@
 
 Convert EPUB novels into manga-style EPUBs using a local LLM for scene parsing and Stable Diffusion for image generation.
 
+Disclaimer: This is a proof of concept. Your results may be dog water. ;3
+
 ## How it works
 
 1. Reads your EPUB and splits the text into scenes
